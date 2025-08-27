@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:781a242ee3f5fcf79264b98c65aff8185427404c51ab8ff723e2ebfaf085c593
