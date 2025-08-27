@@ -1,0 +1,3 @@
+[submodule "images/knative-serving/activator"]
+    path = images/knative-serving/activator
+    url = https://github.com/wangj121/activator.git
