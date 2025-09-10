@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/proxyv2:1.26.1
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:0e47362d044f8eac84595ed0a9fdf22e5dd5a07cc7a5df74e93eb5ad17ad4827
