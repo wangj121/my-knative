@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/proxyv2:1.26.1
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:cc39d40985f7b37ba384a857d194a24ac5eae7e204aac4ed9bf4ebfd8d62e721
