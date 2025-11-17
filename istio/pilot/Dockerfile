@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/pilot:1.26.1
+FROM gcr.io/istio-release/proxyv2:1.27.0
